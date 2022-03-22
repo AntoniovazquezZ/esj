@@ -1,0 +1,7 @@
+{
+  "appId": "com.tisco.esj",
+  "appName": "ESJ",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

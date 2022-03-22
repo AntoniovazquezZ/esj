@@ -1,0 +1,16 @@
+{
+  "name": "esj",
+  "version": "0.0.1",
+  "description": "sistema para el control de salas de junta",
+  "author": "gerardolucero1 <gera_conecta@hotmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0",
+    "@capacitor/ios": "^2.5.0",
+    "cordova-plugin-call-number": "^1.0.1",
+    "cordova-plugin-fcm-with-dependecy-updated": "^7.8.0",
+    "jetifier": "^2.0.0"
+  }
+}

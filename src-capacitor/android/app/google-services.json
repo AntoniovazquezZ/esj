@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "246012813009",
+    "project_id": "app-esj",
+    "storage_bucket": "app-esj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246012813009:android:0ddd31d0f4de9c1b856ff0",
+        "android_client_info": {
+          "package_name": "com.tisco.esj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246012813009-1plc5906guh7nvsmkahp1mrs2d2v2n3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tisco.esj",
+            "certificate_hash": "bf24f4a5bb7532544ccfebd6ba3b7f031ca3e34f"
+          }
+        },
+        {
+          "client_id": "246012813009-2ajpvbtfmjijutkhklcotfbji0oklmk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tisco.esj",
+            "certificate_hash": "8aa2af1e71a9ca152bbf72e157b2d96f80ea37d3"
+          }
+        },
+        {
+          "client_id": "246012813009-snpporj65bs8gbdcentuog7ua5pn04te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tisco.esj",
+            "certificate_hash": "62f09f88bbdf6f892448f1aaf79e6a776d9d2436"
+          }
+        },
+        {
+          "client_id": "246012813009-i4l9ge7d40mo4vat678t2ionbnlqmmgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwM_DKcs8h6s1MC0ldZlakeuJmaaUb1to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246012813009-i4l9ge7d40mo4vat678t2ionbnlqmmgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246012813009-44060ip2c42q7kn1pc190o236e462dsu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.esj.tisco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
