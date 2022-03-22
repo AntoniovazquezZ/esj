@@ -276,7 +276,7 @@ label {
                             
                             <div class="card-name">
                                 <label>{{ user.name }}</label>
-                                
+                                <label>{{ getDate }}</label>
                             </div>
 
                             <div class="q-pa-md">
